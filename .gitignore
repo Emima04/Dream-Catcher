@@ -1,4 +1,6 @@
 logs
 *.log
 mode_modules
+node_modules/
 .env
+dreams.db
